@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>st.happy_camper.hbase</groupId>
 	<artifactId>hbase-coprocessors</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>hbase-coprocessors</name>
 
 	<inceptionYear>2012</inceptionYear>
