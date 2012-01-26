@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>st.happy_camper.hbase</groupId>
+  <artifactId>hbase-coprocessors</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120126152759</lastUpdated>
+  </versioning>
+</metadata>
