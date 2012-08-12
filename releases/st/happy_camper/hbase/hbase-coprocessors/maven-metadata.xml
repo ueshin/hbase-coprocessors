@@ -3,10 +3,11 @@
   <groupId>st.happy_camper.hbase</groupId>
   <artifactId>hbase-coprocessors</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.2</release>
     <versions>
       <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20120126153649</lastUpdated>
+    <lastUpdated>20120812104759</lastUpdated>
   </versioning>
 </metadata>
